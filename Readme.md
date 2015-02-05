@@ -84,6 +84,7 @@ Available events
 [Press]:
 
  - `on-press`
+ - `on-pressup`
 
 [Rotate]:
 
